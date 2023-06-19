@@ -1,0 +1,1 @@
+[{"nombre": "Efectivo", "mostrar_nombre": false, "saldo": 0, "icono": "icos/ef.png"}, {"nombre": "Movil", "mostrar_nombre": false, "saldo": 0, "icono": "icos/mov.png"}, {"nombre": "Tarjeta", "mostrar_nombre": false, "saldo": 0, "icono": "icos/tar.png"}, {"nombre": "Paypal", "mostrar_nombre": false, "saldo": 0, "icono": "icos/pay.png"}]
